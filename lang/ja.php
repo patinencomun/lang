@@ -85,14 +85,18 @@ $newplaylist="新規プレイリスト";
 $writeplaylistname="プレイリストの名前を書く";
 $duplicado="繰り返される";
 $donate="寄付";
+$darpropina="チップの送付先";
 $monetizar="収益化する";
 $monetizapierde="あなたはこのビデオで育てられたすべてを永久に失うでしょう、 $p8";
 $monetizainfo="それがどのように機能するかを読む";
 $pesodelvoto="ひょう量";
 $poderdevoto="投票値";
+$contenidoexclusivo="他のプラットフォームで過去に公開された内容の投稿はご遠慮ください。ありがとうございました。";
+$instatrap="Skate Hypeのアプリに入っていません。Instagramを終了するには、右上の三点メニューから、...で開いてください。";
 
 $responder="返事";
 $verrespuestas="答えを見る";
+$qrclick="QRコードをクリックすると、Hive Keychain Mobile（Hive認証アプリ）が起動し、リクエストを承認することができます。";
 
 $retirar="撤退";
 $retiros="引き出し";
@@ -351,6 +355,8 @@ $not[6]="あなたを友達リストに追加しました";
 $not[7]="登録されました";
 $not[8]="メッセージを書いた";
 $not[9]="あなたのコメントが気に入りました";
+$not[10]="は、あなたに情報を送っています";
+$not[11]="が返ってきた";
 
 if (function_exists('mailDatosLogin')){ } else {
  function mailDatosLogin($nom,$nombre,$apellidos,$nick,$pass,$web){

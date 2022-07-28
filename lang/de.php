@@ -85,14 +85,18 @@ $newplaylist="Neue Playlist";
 $writeplaylistname="Schreiben Sie den Namen der Wiedergabeliste";
 $duplicado="Wiederholt";
 $donate="Spenden";
+$darpropina="Tipp senden an";
 $monetizar="Monetarisieren";
 $monetizapierde="Du wirst alles, was mit diesem Video gesammelt wurde, dauerhaft verlieren, $p8";
 $monetizainfo="Lesen Sie, wie es funktioniert";
 $pesodelvoto="Gewicht der Stimme";
 $poderdevoto="Stimmenwert";
+$contenidoexclusivo="Bitte stellen Sie keine Inhalte ein, die bereits auf anderen Plattformen veröffentlicht wurden. Wir danken Ihnen.";
+$instatrap="Du bist nicht in der Skate Hype-App. Um Instagram zu verlassen, gehen Sie auf das Drei-Punkte-Menü oben rechts, öffnen Sie mit...";
 
 $responder="Antwort";
 $verrespuestas="siehe Antworten";
+$qrclick="Klicken Sie auf den QR-Code, um Ihre Hive Keychain Mobile (Hive Authentication App) zu öffnen und die Anfrage zu bestätigen";
 
 $retirar="Abheben";
 $retiros="Abhebungen";
@@ -351,6 +355,8 @@ $not[6]="hat dich zur Freundesliste hinzugefügt";
 $not[7]="wurde registriert";
 $not[8]="hat dir eine Nachricht geschrieben";
 $not[9]="mochte Ihren Kommentar";
+$not[10]="hat Ihnen einen Tipp geschickt";
+$not[11]="hat geantwortet";
 
 if (function_exists('mailDatosLogin')){ } else {
  function mailDatosLogin($nom,$nombre,$apellidos,$nick,$pass,$web){

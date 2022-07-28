@@ -85,14 +85,18 @@ $newplaylist="เพลย์ลิสต์ใหม่";
 $writeplaylistname="เขียนชื่อเพลย์ลิสต์";
 $duplicado="ซ้ำแล้วซ้ำเล่า";
 $donate="บริจาค";
+$darpropina="ส่งทิปมาที่";
 $monetizar="สร้างรายได้";
 $monetizapierde="คุณจะสูญเสียทุกอย่างที่เกิดขึ้นกับวิดีโอนี้อย่างถาวร, $p8";
 $monetizainfo="อ่านวิธีการทำงาน";
 $pesodelvoto="โหวตน้ำหนัก";
 $poderdevoto="ค่าโหวต";
+$contenidoexclusivo="โปรดอย่าโพสต์เนื้อหาที่เคยเผยแพร่บนแพลตฟอร์มอื่นก่อนหน้านี้ ขอขอบคุณ.";
+$instatrap="คุณไม่ได้อยู่ในแอพ Skate Hype หากต้องการออกจาก Instagram ให้ไปที่เมนูสามจุดที่ด้านบนขวา เปิดด้วย...";
 
 $responder="ตอบ";
 $verrespuestas="ดูคำตอบ";
+$qrclick="คลิกที่ QR Code เพื่อเปิด Hive Keychain Mobile (แอป Hive Authentication) และอนุมัติคำขอ";
 
 $retirar="ถอนออก";
 $retiros="การถอนเงิน";
@@ -351,6 +355,8 @@ $not[6]="เพิ่มคุณในรายชื่อเพื่อน";
 $not[7]="ได้รับการลงทะเบียน";
 $not[8]="เขียนข้อความถึงคุณ";
 $not[9]="ชอบความคิดเห็นของคุณ";
+$not[10]="ได้ส่งทิปให้คุณ";
+$not[11]="ได้ตอบกลับ";
 
 if (function_exists('mailDatosLogin')){ } else {
  function mailDatosLogin($nom,$nombre,$apellidos,$nick,$pass,$web){
