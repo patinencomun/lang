@@ -92,7 +92,8 @@ $monetizainfo="阅读它是如何工作的";
 $pesodelvoto="投票权重";
 $poderdevoto="投票价值";
 $contenidoexclusivo="请不要发布以前在其他平台上发表过的内容。谢谢你。";
-$instatrap="你不在Skate Hype应用程序中。要退出Instagram，请到右上方的三点式菜单，用...";
+$noappmess="你不在Skate Hype应用程序中。";
+$instatrap="$noappmess 要退出Instagram，请到右上方的三点式菜单，用...";
 
 $responder="回复";
 $verrespuestas="查看答案";
@@ -141,6 +142,7 @@ $p32="下载技巧";
 $p32p="下载了一个技巧";
 $p33="发布到 Plaza & 创建下载链接";
 $block="屏蔽此用户";
+$tricks="技巧";
 
 $st1="关闭此菜单";
 $st2="复制此链接";

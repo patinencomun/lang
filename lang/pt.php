@@ -142,6 +142,7 @@ $p32="Download um truque";
 $p32p="baixou um truque";
 $p33="Postar para la Plaza & Criar link de download";
 $block="Bloqueie esse usuário";
+$tricks="Truque";
 
 $st1="fechar este menu";
 $st2="Copie este link";

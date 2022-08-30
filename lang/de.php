@@ -92,7 +92,8 @@ $monetizainfo="Lesen Sie, wie es funktioniert";
 $pesodelvoto="Gewicht der Stimme";
 $poderdevoto="Stimmenwert";
 $contenidoexclusivo="Bitte stellen Sie keine Inhalte ein, die bereits auf anderen Plattformen veröffentlicht wurden. Wir danken Ihnen.";
-$instatrap="Du bist nicht in der Skate Hype-App. Um Instagram zu verlassen, gehen Sie auf das Drei-Punkte-Menü oben rechts, öffnen Sie mit...";
+$noappmess="Du bist nicht in der Skate Hype-App.";
+$instatrap="$noappmess Um Instagram zu verlassen, gehen Sie auf das Drei-Punkte-Menü oben rechts, öffnen Sie mit...";
 
 $responder="Antwort";
 $verrespuestas="siehe Antworten";
@@ -141,6 +142,7 @@ $p32="Laden Sie einen Trick herunter";
 $p32p="hat einen Trick heruntergeladen";
 $p33="Beitrag an Plaza & Download-Link erstellen";
 $block="Diesen Benutzer sperren";
+$tricks="Trick";
 
 $st1="Schließen Sie dieses Menü";
 $st2t="Kopieren Sie in dieser Sekunde";

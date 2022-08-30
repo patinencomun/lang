@@ -92,7 +92,8 @@ $monetizainfo="それがどのように機能するかを読む";
 $pesodelvoto="ひょう量";
 $poderdevoto="投票値";
 $contenidoexclusivo="他のプラットフォームで過去に公開された内容の投稿はご遠慮ください。ありがとうございました。";
-$instatrap="Skate Hypeのアプリに入っていません。Instagramを終了するには、右上の三点メニューから、...で開いてください。";
+$noappmess="Skate Hypeのアプリに入っていません。";
+$instatrap="$noappmess Instagramを終了するには、右上の三点メニューから、...で開いてください。";
 
 $responder="返事";
 $verrespuestas="答えを見る";
@@ -141,6 +142,7 @@ $p32="トリックをダウンロードする";
 $p32p="トリックをダウンロードしました";
 $p33="に投稿 Plaza & ダウンロードリンクを作成する";
 $block="このユーザーをブロックする";
+$tricks="トリック";
 
 $st1="このメニューを閉じる";
 $st2="このリンクをコピー";

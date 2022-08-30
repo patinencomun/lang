@@ -92,7 +92,8 @@ $monetizainfo="Lisez comment ça marche";
 $pesodelvoto="Poids du vote";
 $poderdevoto="Valeur des votes";
 $contenidoexclusivo="Veuillez ne pas publier de contenu qui a déjà été publié sur d'autres plateformes. Merci.";
-$instatrap="Vous n'êtes pas dans l'application Skate Hype. Pour quitter Instagram, allez dans le menu à trois points en haut à droite, ouvrez avec...";
+$noappmess="Vous n'êtes pas dans l'application Skate Hype.";
+$instatrap="$noappmess Pour quitter Instagram, allez dans le menu à trois points en haut à droite, ouvrez avec...";
 
 $responder="réponse";
 $verrespuestas="voir les réponses";
@@ -137,10 +138,11 @@ $p27f="Mettre à jour la photo";
 $p28="Supprimer la dernière photo de la séquence";
 $p30="Code pour intégrer";
 $p31="Télécharger";
-$p32="Téléchargez une astuce";
-$p32p="a téléchargé une astuce";
+$p32="Téléchargez une trucage";
+$p32p="a téléchargé une trucage";
 $p33="Poster à la Plaza & Créer un lien de téléchargement";
 $block="Bloquer cet utilisateur";
+$tricks="Trucage";
 
 $st1="fermer ce menu";
 $st2="Copier ce lien";
